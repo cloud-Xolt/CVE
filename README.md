@@ -1,26 +1,27 @@
-# CVE漏洞信息
+[中文](README-zh.md) | [English](README.md)
 
-**本文档记录了目前包含的CVE漏洞信息**
+# CVE Vulnerability Information
 
-* ## ingress-nginx组件的CVE漏洞
+**This document mainly records some CVE vulnerability information in the research process and provides convenience for students who love network security to study.**
+
+* ## ingress-nginx
 1. CVE-2021-25742
-    - 复现环境：✔
-    - PoC信息：✔
+    - environment: ✔
+    - PoC information: ✔
 
 2. CVE-2021-25745
-    - 复现环境：✔
-    - PoC信息：✔
-
+    - environment: ✔
+    - PoC information: ✔
 3. CVE-2021-25746
-    - 复现环境：✔
-    - PoC信息：✔
+    - environment: ✔
+    - PoC information: ✔
 
 4. CVE-2021-25748
-    - 复现环境：✔
-    - PoC信息：✔
+    - environment: ✔
+    - PoC information: ✔
 
 5. CVE-2023-5044
-    - 复现环境：✔
-    - PoC信息：✔
+    - environment: ✔
+    - PoC information: ✔
 
-**复现环境和PoC信息仅允许应用于安全研究和安全学习。建议及时关注官方发布的漏洞公告，并在确保安全的情况下进行漏洞验证和修复工作。**
+**The reproduction environment and PoC information are only allowed for security research and security learning. It is recommended to pay attention to official vulnerability announcements and verify and repair vulnerabilities in a secure manner.**
